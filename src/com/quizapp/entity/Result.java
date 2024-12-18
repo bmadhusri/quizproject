@@ -30,7 +30,7 @@ public class Result {
         this.score = score;
     }
 
-    // Getters and setters
+    
     public Integer getId() {
         return id;
     }

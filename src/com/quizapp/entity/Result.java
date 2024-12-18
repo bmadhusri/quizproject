@@ -23,7 +23,7 @@ public class Result {
     public Result() {
     }
 
-    // Constructor with fields
+
     public Result(String userId, Integer quizId, Integer score) {
         this.userId = userId;
         this.quizId = quizId;
